@@ -16,3 +16,7 @@
 ![Картинка](https://github.com/Gornak40/creepypasta/blob/master/samples/sample.png)
 
 ![Ещё картинка](https://github.com/Gornak40/creepypasta/blob/master/samples/sample%202.png)
+
+### Перспективы
+* Фикс отображения некоторых историй
+* Мобильно приложение под ios мб)
