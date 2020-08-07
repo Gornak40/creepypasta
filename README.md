@@ -12,3 +12,5 @@
 ### Использование
 * ```chmod +x main.py```
 * ```./main.py```
+![Картинка](https://github.com/Gornak40/creepypasta/blob/master/samples/sample.png)
+![Ещк картинка](https://github.com/Gornak40/creepypasta/blob/master/samples/sample 2.png)
