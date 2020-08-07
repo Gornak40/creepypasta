@@ -1,0 +1,5 @@
+bs4
+requests
+fake_useragent
+termcolor
+prompt_toolkit
