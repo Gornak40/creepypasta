@@ -21,7 +21,7 @@ def show(title):
 
 
 def main():
-	chdir('stories2')
+	chdir('stories')
 	arr = sorted([x[:-4] for x in listdir()])
 	comp = WordCompleter(arr, ignore_case=True, match_middle=True)
 	while True:
